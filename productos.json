@@ -38,5 +38,16 @@
     "descripcion": "Caja de MYL con expansión 2026",
     "estado_tipo": "disponible",
     "fecha_lanzamiento": ""
+  },
+
+    {
+    "id": 4,
+    "nombre": "Caja MYL Épicaaaaaaaaaaaaaaaaaaaaa",
+    "categoria": "MYL",
+    "precio": 159990,
+    "imagen": "assets/images/productos/myl1.webp",
+    "descripcion": "Caja de MYL con expansión 2026",
+    "estado_tipo": "disponible",
+    "fecha_lanzamiento": ""
   }
 ]
