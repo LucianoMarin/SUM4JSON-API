@@ -17,7 +17,7 @@
     "imagen": "assets/images/productos/pokemon1.webp",
     "descripcion": "Pack especial de cartas Pokémon Edición Limitada",
     "estado_tipo": "disponible"
-    "fecha_lanzamiento": ''
+    "fecha_lanzamiento": ""
   },
   {
     "id": 3,
