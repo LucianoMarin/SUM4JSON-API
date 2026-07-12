@@ -7,6 +7,7 @@
     "imagen": "assets/images/productos/magic1.webp",
     "descripcion": "Caja de cartas Magic con expansión especial",
     "estado_tipo": "preventa"
+    "fecha_lanzamiento": "2026-12-25"
   },
   {
     "id": 2,
@@ -16,6 +17,7 @@
     "imagen": "assets/images/productos/pokemon1.webp",
     "descripcion": "Pack especial de cartas Pokémon Edición Limitada",
     "estado_tipo": "disponible"
+    "fecha_lanzamiento": ''
   },
   {
     "id": 3,
@@ -25,6 +27,7 @@
     "imagen": "assets/images/productos/yugioh1.webp",
     "descripcion": "Mazo de estructura básica para principiantes",
     "estado_tipo": "preventa"
+    "fecha_lanzamiento": "2026-12-25"
   },
   {
     "id": 4,
@@ -33,6 +36,7 @@
     "precio": 159990,
     "imagen": "assets/images/productos/myl1.webp",
     "descripcion": "Caja de MYL con expansión 2026",
-    "estado_tipo": "preventa"
+    "estado_tipo": "disponible"
+    "fecha_lanzamiento": ""
   }
 ]
