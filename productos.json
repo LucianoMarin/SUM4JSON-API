@@ -42,11 +42,11 @@
 
     {
     "id": 5,
-    "nombre": "Caja MYL Épicaaaaaaaaaaaaaaaaaaaaa",
+    "nombre": "FURIA EXPANSION",
     "categoria": "MYL",
     "precio": 159990,
     "imagen": "assets/images/productos/myl1.webp",
-    "descripcion": "Caja de MYL con expansión 2026",
+    "descripcion": "Caja de MYL con expansión",
     "estado_tipo": "disponible",
     "fecha_lanzamiento": ""
   }
