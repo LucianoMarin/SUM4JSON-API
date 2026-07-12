@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "usuario": "lmarin",
+        "clave": "858585",
+        "nombres": "Luciano",
+        "apellidoPaterno": "Marin",
+        "apellidoMaterno": "Villanueva",
+        "fechaNacimiento": "18/08/1994",
+        "edad": "31",
+        "ciudad": "Valdivia",
+        "direccion": "Picarte 3000",
+        "rol": null
+    },
+       {
+        "id": 2,
+        "usuario": "admin",
+        "clave": "admin123",
+        "nombres": "",
+        "apellidoPaterno": "",
+        "apellidoMaterno": "",
+        "fechaNacimiento": "18/08/1994",
+        "edad": "1",
+        "ciudad": "",
+        "direccion": "",
+        "rol": "admin"
+    }
+
+    
+]
