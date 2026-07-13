@@ -49,5 +49,16 @@
     "descripcion": "Caja de MYL con expansión",
     "estado_tipo": "disponible",
     "fecha_lanzamiento": ""
+  },
+
+      {
+    "id": 6,
+    "nombre": "AGREGADO EL 13",
+    "categoria": "MYL",
+    "precio": 159990,
+    "imagen": "assets/images/productos/myl1.webp",
+    "descripcion": "Caja de MYL con expansión",
+    "estado_tipo": "disponible",
+    "fecha_lanzamiento": ""
   }
 ]
