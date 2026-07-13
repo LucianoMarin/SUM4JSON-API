@@ -18,5 +18,15 @@
     "descripcion": "Caja de cartas Magic con expansión especial",
     "estado_tipo": "preventa",
     "fecha_lanzamiento": "2026-12-25"
+  },
+    {
+    "id": 14,
+    "nombre": "Caja TCG MISTERIOSA (DESDEGIT)",
+    "categoria": "Magic",
+    "precio": 89990,
+    "imagen": "assets/images/productos/magic1.webp",
+    "descripcion": "Caja de cartas Magic con expansión especial",
+    "estado_tipo": "preventa",
+    "fecha_lanzamiento": "2026-12-25"
   }
 ]
