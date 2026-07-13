@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 12,
     "nombre": "Caja TCG Mágica",
     "categoria": "Magic",
     "precio": 89990,
@@ -9,56 +9,6 @@
     "estado_tipo": "preventa",
     "fecha_lanzamiento": "2026-12-25"
   },
-  {
-    "id": 2,
-    "nombre": "Pack Pokémon Legendario",
-    "categoria": "Pokemon",
-    "precio": 129990,
-    "imagen": "assets/images/productos/pokemon1.webp",
-    "descripcion": "Pack especial de cartas Pokémon Edición Limitada",
-    "estado_tipo": "disponible",
-    "fecha_lanzamiento": ""
-  },
-  {
-    "id": 3,
-    "nombre": "Mazo Yugioh Estructura",
-    "categoria": "Yugioh",
-    "precio": 49990,
-    "imagen": "assets/images/productos/yugioh1.webp",
-    "descripcion": "Mazo de estructura básica para principiantes",
-    "estado_tipo": "preventa",
-    "fecha_lanzamiento": "2026-12-25"
-  },
-  {
-    "id": 4,
-    "nombre": "Caja MYL Épica",
-    "categoria": "MYL",
-    "precio": 159990,
-    "imagen": "assets/images/productos/myl1.webp",
-    "descripcion": "Caja de MYL con expansión 2026",
-    "estado_tipo": "disponible",
-    "fecha_lanzamiento": ""
-  },
 
-    {
-    "id": 5,
-    "nombre": "FURIA EXPANSION",
-    "categoria": "MYL",
-    "precio": 159990,
-    "imagen": "assets/images/productos/myl1.webp",
-    "descripcion": "Caja de MYL con expansión",
-    "estado_tipo": "disponible",
-    "fecha_lanzamiento": ""
-  },
 
-      {
-    "id": 6,
-    "nombre": "AGREGADO EL 13",
-    "categoria": "MYL",
-    "precio": 159990,
-    "imagen": "assets/images/productos/myl1.webp",
-    "descripcion": "Caja de MYL con expansión",
-    "estado_tipo": "disponible",
-    "fecha_lanzamiento": ""
-  }
 ]
